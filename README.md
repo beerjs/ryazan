@@ -1,0 +1,2 @@
+# BeerJS Рязань
+:beers:
